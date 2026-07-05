@@ -13,8 +13,8 @@
 
 - Telegram: [@m1ruku](https://t.me/m1ruku)
 - Email: tanya.25a.z@gmail.com
-- GitLab: (https://github.com/M1r4ku)`
-- GitHub: (https://gitlab.com/m1ruku)
+- GitLab: https://github.com/M1r4ku
+- GitHub: https://gitlab.com/m1ruku
 
 ---
 
