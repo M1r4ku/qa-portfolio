@@ -12,9 +12,9 @@
 ## Контакты
 
 - Telegram: [@m1ruku](https://t.me/m1ruku)
-- Email: mur.tatyanushka@yandex.ru
-- GitLab: `вставить ссылку`
-- GitHub: `вставить ссылку`
+- Email: tanya.25a.z@gmail.com
+- GitLab: (https://github.com/M1r4ku)`
+- GitHub: (https://gitlab.com/m1ruku)
 
 ---
 
